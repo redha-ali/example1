@@ -1,5 +1,6 @@
 class Game:
     def __init__(self):
+        print ('Hellow all of you')
         print ('Welcome in my Full Game')
         print ('Enter [1]','Enter [2]','Enter [3]',sep='\n')
 
